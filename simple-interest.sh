@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
    # Questo script calcola l'interesse semplice dato il capitale,
    # il tasso annuale d'interesse e il periodo di tempo in anni.
 
@@ -6,7 +6,7 @@
 
    # Autore: Upkar Lidder (IBM)
    # Autori aggiuntivi:
-   # <il tuo nome utente GitHub>
+   # AlexBenin01
 
    # Input:
    # p, importo principale
